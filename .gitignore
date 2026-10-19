@@ -1,0 +1,15 @@
+# SwiftPM build output
+.build/
+out/
+
+# App bundle produced by build.sh
+dist/
+
+# Xcode / editor
+*.xcuserstate
+xcuserdata/
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
